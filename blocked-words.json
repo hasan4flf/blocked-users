@@ -4,5 +4,11 @@
 	},
 	{
 		"word" : ".com"
+	},
+	{
+		"word" : "http://"
+	},
+	{
+		"word" : "https://"
 	}
 ]
